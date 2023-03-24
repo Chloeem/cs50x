@@ -1,1 +1,1 @@
-# cs50X course
+# CS50x Course
